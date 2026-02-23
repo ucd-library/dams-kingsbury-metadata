@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1206764",
+    "http://schema.org/name": "Vallejo"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214273",
+    "http://schema.org/name": "Solano County"
+  }
+]
