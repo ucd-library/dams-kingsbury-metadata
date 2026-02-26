@@ -38,7 +38,7 @@
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
   },
    "schema:image": {
-    "@id": "@base:/media/images/F869_V3_K56_0005.tif"
+    "@id": "@base:/media/images/F869_V3_K56_0001.tif"
   },
   "schema:name": "Kingsbury's 1904-5 Directory of Vallejo City and Solano County, California",
   "schema:publisher": "",
