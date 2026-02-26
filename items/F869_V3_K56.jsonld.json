@@ -34,9 +34,6 @@
     "ark:/87293/d3794141x",
     "F869.V3 K56"
   ],
-  "schema:image": {
-    "@id": "@base:/media/F869_V3_K56_0005_cropped.jpg"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
   },
